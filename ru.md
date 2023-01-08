@@ -1,5 +1,26 @@
-### Краткое описание текущей позиции
+### Описание текущей позиции
+TechLead/TeamLead в Контур.Реестро, Контур.Приёмка, проектирую и фичалидю задачи. Помогаю расти 4 падаванам, 3 backend и 1 devops.
 
+### Образование
+НГТУ 2016-2020 бакалавриат вычислительная техничка АСУ.
+
+### Иностранные языки
+Английский B2
+
+Немецкий A1
+
+### Стороняя деятельность в IT
+* Делал тестовые для стажировок по c#, часть заданий мои:)
+
+[2020 г](https://ulearn.me/Course/backend-internship-2020/Refaktoring_4d4966b2-144f-4244-830c-0c81173e87cb)
+[2021 г](https://ulearn.me/Course/backend-internship-2021/Umnyy_kholodil_nik_5a4a5b9b-2b56-444a-9275-520bd4eb1c4b)
+[2022 г](https://ulearn.me/Course/backend-internship-2022/Avtokomplit_7c31b316-d9d5-4dfa-8cc4-5ebe806821d6)
+
+* Ввёл лекции в УРФУ по базам данных
+
+* Собеседую разработчиков приходящих в Контур
+
+* Выступал на мероприятиях [SnowOne 2021](https://www.youtube.com/watch?list=PLecWId-JT7S5cqUiY7ixWcZgjdRV4upnw&time_continue=1&v=lHX9iRb9184&feature=emb_logo&ab_channel=JUGNsk), [митап JUG.EKB](https://www.youtube.com/watch?v=yePWmqo4qFU&ab_channel=JUG.EKB), [митап Backend Update 2022](https://eventskbkontur.timepad.ru/event/2169073/)
 
 ### Опыт работы
 
