@@ -22,11 +22,11 @@ TechLead/TeamLead в Контур.Реестро, Контур.Приёмка, �
 
 |Позиция| Стек | Время|
 |------|------|------|
-|Middle| kotlin\java, spring, vaading, clickhouse, vertx, mongodb, mysql, hazelcast, swing ui | 01.07.2018 - 07.08.2019|
-| Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, grafana, graphite, moira | 13.08.2019-01.04.2020 |
-| Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, grafana, graphite, moira | 01.04.2020-01.01.2021 |
-| Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, grafana, graphite, moira | 01.01.2021-03.09.2021 |
-| Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, grafana, graphite, moira | 03.09.2021-настоящее время |
+|Middle| kotlin\java, spring, vaading, clickhouse, vertx, mongodb, mysql, hazelcast, swing ui, docker | 01.07.2018 - 07.08.2019|
+| Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 13.08.2019-01.04.2020 |
+| Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.04.2020-01.01.2021 |
+| Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.01.2021-03.09.2021 |
+| Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-настоящее время |
 
 ### Решенные задачи
 Ниже выделены задачи с затраченным временем более 2 месяцев общей разработки команды. В основном бекенд всегда писался быстрее, то есть бекенд например заканчивали за 1-2 месяца, а фронтенд ребята доводили только к 3 месяцу и затем шло тестирование.
