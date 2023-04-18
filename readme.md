@@ -3,7 +3,7 @@
 ### Now
 I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product. 
 
-### Образование
+### Education
 Bachelor's degree of information technology in NSTU 2016-2020.
 
 ### Foreign languages
@@ -25,7 +25,7 @@ Russian
 
 ### Expirience
 
-|Позиция| Стек | Время|
+|Position| Stack of technology | Time|
 |------|------|------|
 |Middle| kotlin\java, spring, vaading, clickhouse, vertx, mongodb, mysql, hazelcast, swing ui, docker | 01.07.2018 - 07.08.2019|
 | Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 13.08.2019-01.04.2020 |
@@ -36,7 +36,7 @@ Russian
 ### Solved tasks
 Below, you can see different tasks with 2 and more months cost
 
-|Цель |Результат| Проактивность? | Год | Время |
+|Goal |Result| Is it proactivity? | Year | Waste time |
 | -------| ---------| -------| ----| ----|
 | Design API for product "Контур.Приёмка". Full version of products includes two applications one is for b2b client and another if for b2c client and telegram bot | First part of design we made with another lead, but than I continued to design only by myself. I used DDD aproach in this product. | No | 2022г | 4 месяца+наст_время |
 | Design and realization of MVP product "Контур.Приёмка" | I designed MVP with another lead, we used DDD aproach. MVP is used by different clients | No |2022г| 2 months |
