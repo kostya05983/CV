@@ -1,26 +1,26 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/kostya05983/CV/blob/main/readme-ru.md)
 
-### Описание текущей позиции
-Руководитель кластера java бекендеров в направлении недвижимости в Контуре. TechLead в продукте Контур.Приёмка.
+### Now
+I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product. 
 
 ### Образование
-НГТУ 2016-2020 бакалавриат вычислительная техника АСУ.
+Bachelor's degree of information technology in NSTU 2016-2020.
 
 ### Иностранные языки
-Английский B2
+English B2
 
-Немецкий A1
+Deutch A1
 
-### Стороняя деятельность в IT
-* Делал тестовые для стажировок по c#, часть заданий мои:) [2020 г](https://ulearn.me/Course/backend-internship-2020/Refaktoring_4d4966b2-144f-4244-830c-0c81173e87cb), [2021 г](https://ulearn.me/Course/backend-internship-2021/Umnyy_kholodil_nik_5a4a5b9b-2b56-444a-9275-520bd4eb1c4b), [2022 г](https://ulearn.me/Course/backend-internship-2022/Avtokomplit_7c31b316-d9d5-4dfa-8cc4-5ebe806821d6)
+### Extra activites in IT
+* I have made some of internship tasks for c# [2020 г](https://ulearn.me/Course/backend-internship-2020/Refaktoring_4d4966b2-144f-4244-830c-0c81173e87cb), [2021 г](https://ulearn.me/Course/backend-internship-2021/Umnyy_kholodil_nik_5a4a5b9b-2b56-444a-9275-520bd4eb1c4b), [2022 г](https://ulearn.me/Course/backend-internship-2022/Avtokomplit_7c31b316-d9d5-4dfa-8cc4-5ebe806821d6)
 
-* Ввёл лекции в УРФУ по базам данных
+* I have teached the database course students of URFU since 2022
 
-* Собеседую разработчиков приходящих в Контур
+* I have intervied developers in Kontur since 2021
 
-* Выступал на мероприятиях [SnowOne 2021](https://www.youtube.com/watch?list=PLecWId-JT7S5cqUiY7ixWcZgjdRV4upnw&time_continue=1&v=lHX9iRb9184&feature=emb_logo&ab_channel=JUGNsk), [митап JUG.EKB](https://www.youtube.com/watch?v=yePWmqo4qFU&ab_channel=JUG.EKB), [митап Backend Update 2022](https://eventskbkontur.timepad.ru/event/2169073/)
+* I have perfomed in [SnowOne 2021](https://www.youtube.com/watch?list=PLecWId-JT7S5cqUiY7ixWcZgjdRV4upnw&time_continue=1&v=lHX9iRb9184&feature=emb_logo&ab_channel=JUGNsk), [meetup JUG.EKB](https://www.youtube.com/watch?v=yePWmqo4qFU&ab_channel=JUG.EKB), [meetup Backend Update 2022](https://eventskbkontur.timepad.ru/event/2169073/)
 
-### Опыт работы
+### Expirience
 
 |Позиция| Стек | Время|
 |------|------|------|
@@ -30,13 +30,13 @@
 | Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.01.2021-03.09.2021 |
 | Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-настоящее время |
 
-### Решенные задачи
-Ниже выделены задачи с затраченным временем более 2 месяцев общей разработки команды. В основном бекенд всегда писался быстрее, то есть бекенд например заканчивали за 1-2 месяца, а фронтенд ребята доводили только к 3 месяцу и затем шло тестирование.
+### Solved tasks
+Below, you can see different tasks with 2 and more months cost
 
 |Цель |Результат| Проактивность? | Год | Время |
 | -------| ---------| -------| ----| ----|
-| Спроектировать АПИ для полноценной версии продукта Контур.Приёмка. Полноценная версия включает в себя два приложения для b2b клиента и b2c клиента. | Проектировали совместно с другим лидом. Затем он ушёл. Полноценно запустили DDD подход. | Нет | 2022г | 4 месяца+наст_время |
-| Спроектировать и реализовать mvp продукта Контур.Приёмка | Проектировали и реализовывали совместно с другим лидом, решили попробовать DDD. MVP успешно запустился и отработал уже на первых клиентах. | Нет |2022г| 2 месяца |
+| Design API for product "Контур.Приёмка". Full version of products includes two applications one is for b2b client and another if for b2c client and telegram bot | First part of design we made with another lead, but than I continued to design only by myself. I used DDD aproach in this product. | No | 2022г | 4 месяца+наст_время |
+| Design and realization of MVP product "Контур.Приёмка" | I designed MVP with another lead, we used DDD aproach. MVP is used by different clients | No |2022г| 2 months |
 | Мониторить объекты недвижимости, если произошли изменения, необходимо автоматически заказать выписки и предоставить клиенту | Мной было спроектирован модуль в [API](https://reestro-docs.kontur.ru/realty-api/monitoring/process.html), задачу реализовывали 2 стажера, я довёл задачу до конца. | Нет | 2022г | 3 месяца |
 | Рассылать уведомления о продлении, если у клиента на счёте было денег меньше определённого процента | Был реализован демон, который мог пройтись по всем услугам b2b организации и высчитать проценты, а затем разослать письма админка b2b организации. | Нет| 2022г | 2 месяца |
 | Выгрузка списка сделок в Excel | Мной было выполнена постановка и проектирование, реализацию делал другой разработчик.  | Нет | 2021г | 1 месяц|
