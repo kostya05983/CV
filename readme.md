@@ -6,10 +6,13 @@ I'm head of the cluster of java backenders in the direction of real estate in Ko
 ### Образование
 Bachelor's degree of information technology in NSTU 2016-2020.
 
-### Иностранные языки
+### Foreign languages
 English B2
 
 Deutch A1
+
+###Native language
+Russian
 
 ### Extra activites in IT
 * I have made some of internship tasks for c# [2020 г](https://ulearn.me/Course/backend-internship-2020/Refaktoring_4d4966b2-144f-4244-830c-0c81173e87cb), [2021 г](https://ulearn.me/Course/backend-internship-2021/Umnyy_kholodil_nik_5a4a5b9b-2b56-444a-9275-520bd4eb1c4b), [2022 г](https://ulearn.me/Course/backend-internship-2022/Avtokomplit_7c31b316-d9d5-4dfa-8cc4-5ebe806821d6)
