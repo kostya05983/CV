@@ -1,4 +1,5 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/kostya05983/CV/blob/main/readme-ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/kostya05983/CV/blob/main/readme.md)
 
 ### Now
 I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product. 
