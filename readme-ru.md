@@ -1,3 +1,6 @@
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/kostya05983/CV/blob/main/readme-ru.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/kostya05983/CV/blob/main/readme.md)
+
 ### Описание текущей позиции
 Руководитель кластера java бекендеров в направлении недвижимости в Контуре. TechLead в продукте Контур.Приёмка.
 
