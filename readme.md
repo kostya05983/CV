@@ -32,23 +32,23 @@ Russian
 | Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 13.08.2019-01.04.2020 |
 | Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.04.2020-01.01.2021 |
 | Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.01.2021-03.09.2021 |
-| Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-настоящее время |
+| Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-now |
 
 ### Solved tasks
 Below, you can see different tasks with 2 and more months cost
 
 |Goal |Result| Is it proactivity? | Year | Waste time |
 | -------| ---------| -------| ----| ----|
-| Design API for product "Контур.Приёмка". Full version of products includes two applications one is for b2b client and another if for b2c client and telegram bot | First part of design we made with another lead, but than I continued to design only by myself. I used DDD aproach in this product. | No | 2022г | 4 месяца+наст_время |
+| Design API for product "Контур.Приёмка". Full version of products includes two applications one is for b2b client and another if for b2c client and telegram bot | First part of design we made with another lead, but than I continued to design only by myself. I used DDD aproach in this product. | No | 2022г | 6 moths+ now |
 | Design and realization of MVP product "Контур.Приёмка" | I designed MVP with another lead, we used DDD aproach. MVP is used by different clients | No |2022г| 2 months |
-| Мониторить объекты недвижимости, если произошли изменения, необходимо автоматически заказать выписки и предоставить клиенту | Мной было спроектирован модуль в [API](https://reestro-docs.kontur.ru/realty-api/monitoring/process.html), задачу реализовывали 2 стажера, я довёл задачу до конца. | Нет | 2022г | 3 месяца |
-| Рассылать уведомления о продлении, если у клиента на счёте было денег меньше определённого процента | Был реализован демон, который мог пройтись по всем услугам b2b организации и высчитать проценты, а затем разослать письма админка b2b организации. | Нет| 2022г | 2 месяца |
-| Выгрузка списка сделок в Excel | Мной было выполнена постановка и проектирование, реализацию делал другой разработчик.  | Нет | 2021г | 1 месяц|
-| Модуль Закладные Веб Апи | Мной был спроектирована веб часть модуля закладные и реализована интеграция с [транспортой частью](https://reestro-docs.kontur.ru/realty-api/mortgage/mortgage.html), в реализации также был задействован другой разработчик, он делал часть с просчётом статусов черновика. | Нет | 2021г | 5 месяцев |
-| Интеграция с банком Тинькофф для ДКП | Для продукта Реестро модуля сделки была спроектирована мной и написана мной и ещё одним разработчиком интеграция с Тинькофф | Нет | 2021г | 6 месяцев |
-| Фильтрация сделок в списке по параметрам | Реализацию осуществлял другой разработчик(не лид). Затем как ушёл лид, пришлось взять инициативу на себя и доводить задачу до состояния продакшена. | Нет | 2020г | 3 месяца |
-| Мультисделка. Возможность в пределах одного черновика сделки, отправлять несколько сделок. | Проектировали совместно с Лидом. Затем он ушёл, задачу доводил сам. | Нет | 2020г | 3 месяца |
-| Перенести сервис пользователей, организаций, представителей с node-js на kotlin. | Перенос был осуществлён с 0 down time-ом. | Нет | 2020г | 6 месяцев|
-| Сделать Веб Апи для выписок, две версии по версии для каждого продукта Контур.Реестро и Контур.Панорама | Был написан сервис взаимодействующий с [транспортной системой Реестро](https://reestro-docs.kontur.ru/realty-api/methods/create-docflow.html)| Нет | 2020г | 3 месяца |
-|Запускать приложение в IDE по кнопке play. (Надоело подкладывать файлик с настройками) | Написал библиотеку, которая при старте сама генерирует и подкладывает нужные настройки в spring environment. | Да | 2019г | 1 месяц | 
-|Написать сервис для продукта, чтобы отправлять нотификации через инфраструктуру Контура, учесть наши бизнес потребности. | Сервис работает с 2019 года, очень маленькие затраты на поддержку. | Нет | 2019г | 2 месяца |
+| Monitoring of real estate objects. If something changes with real estate object we will order the extract and bring it to the client | I designed [API](https://reestro-docs.kontur.ru/realty-api/monitoring/process.html), the realization is programmed by 2 internshipers. | No | 2022 year | 3 months |
+| Notificate clients about renewal, if clients have money below some percent | I realized a daemon, which traverse in all services and than send letters | No| 2022г | 2 months |
+| Export deals in Excel | I designed API than another developer programmed this | No | 2021 year | 1 Month|
+| Module of Mortgages in the Web.API  | I desinged web.Api for mortgage module and than realized integration with [transport API](https://reestro-docs.kontur.ru/realty-api/mortgage/mortgage.html), also I set a tasks for another developer, and he helped in realization | No | 2021 year | 5 Months |
+| Integration with Tinkoff Bank | I desined an integration with tinkoff bank for product "Контур.Реестро", also I desined it with another developer I designed Web.API and another developer designed transport API| No | 2021 year | 6 months |
+| Deals filters by different characteristics | I set a task for another developer and help him to finish the task | No | 2020 year | 3 months |
+| Multideal. It's possibility to create some deals in one draft | I designed it with another lead developer. Than he had leaved us and I finished the task | No | 2020 year | 3 months |
+| Move the user,representative,organization service from node-js to kotlin | I have rewrited all code and moved all with zero down-time | No | 2020 year | 6 moths|
+| Design an Web.Api of extracts for two products | I developed a service than integrated with transport system[transport system](https://reestro-docs.kontur.ru/realty-api/methods/create-docflow.html)| No | 2020year | 3 Months |
+| Run application server by play button. (There was a problem, that we need to put a file with setting and than run the application) | I wrote a library, which generates such file and put settings in spring environment | Yes | 2019 year | 1 month | 
+|Write service to notification users and integrate with infrastructure of Kontur | I developed the service, it have worked since 2019 year | No | 2019 year | 2 Months|
