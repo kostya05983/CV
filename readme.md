@@ -48,7 +48,7 @@ Below, you can see different tasks with 2 and more months cost
 | Module of Mortgages in the Web.API  | I desinged web.Api for mortgage module and than realized integration with [transport API](https://reestro-docs.kontur.ru/realty-api/mortgage/mortgage.html), also I set a tasks for another developer, and he helped in realization | No | 2021 year | 5 Months |
 | Integration with Tinkoff Bank | I desined an integration with tinkoff bank for product "Контур.Реестро", also I desined it with another developer I designed Web.API and another developer designed transport API| No | 2021 year | 6 months |
 | Deals filters by different characteristics | I set a task for another developer and help him to finish the task | No | 2020 year | 3 months |
-| Multideal. It's possibility to create some deals in one draft | I designed it with another lead developer. Than he had leaved us and I finished the task | No | 2020 year | 3 months |
+| Multideal. It's possibility to create some deals in one draft | I designed it with another lead developer. Than he leaved us and I finished the task | No | 2020 year | 3 months |
 | Move the user,representative,organization service from node-js to kotlin | I have rewrited all code and moved all to kotlin with zero down-time | No | 2020 year | 6 moths|
 | Design an Web.Api of extracts for two products | I developed a service than integrated with transport system[transport system](https://reestro-docs.kontur.ru/realty-api/methods/create-docflow.html)| No | 2020 year | 3 Months |
 | Run application server by play button. (There was a problem, that we need to put a file with setting and than run the application) | I wrote a library, which generates such file and put settings in spring environment | Yes | 2019 year | 1 month | 
