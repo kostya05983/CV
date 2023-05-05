@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/kostya05983/CV/blob/main/readme.md)
 
 ### Now
-I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product and "Контур.Реестро". 
+I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product and "Контур.Реестро" and all time in my work I make different dicissions about architecture, tasks, people and others. 
 
 ### Education
 Bachelor's degree of information technology in NSTU 2016-2020.
