@@ -40,7 +40,7 @@ Below, you can see different tasks with 2 and more months cost
 
 |Goal |Result| Is it proactivity? | Year | Waste time |
 | -------| ---------| -------| ----| ----|
-| Design API for product "Контур.Приёмка". Full version of products includes two applications one is for b2b client and another if for b2c client and telegram bot | First part of design we made with another lead, but than I continued to design only by myself. I used DDD aproach in this product. | No | 2022 year | 6 moths+ now |
+| Design API for product "Контур.Приёмка". Full version of products includes two applications one is for b2b client and another if for b2c client and telegram bot. API have 110+ methods | First part of design we made with another lead, but than I continued to design only by myself. I used DDD aproach in this product. | No | 2022 year | 7 moths |
 | Design and realization of MVP product "Контур.Приёмка" | I designed MVP with another lead, we used DDD aproach. MVP is used by different clients | No |2022 year| 2 months |
 | Monitoring of real estate objects. If something changes with real estate object we will order the extract and bring it to the client | I designed [API](https://reestro-docs.kontur.ru/realty-api/monitoring/process.html), the realization is programmed by 2 internshipers. | No | 2022 year | 3 months |
 | Notificate clients about renewal, if clients have money below some percent | I realized a daemon, which traverse in all services and than send letters | No| 2022 year | 2 months |
