@@ -28,7 +28,7 @@ Russian
 ### Expirience
 
 |Position| Stack of technology | Time| Company |
-|------|------|------|
+|------|------|------|-----|
 |Middle| kotlin\java, spring, vaading, clickhouse, vertx, mongodb, mysql, hazelcast, swing ui, docker | 01.07.2018 - 07.08.2019| Eltex |
 | Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 13.08.2019-01.04.2020 | Kontur |
 | Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.04.2020-01.01.2021 | Kontur |
