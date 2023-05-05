@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/kostya05983/CV/blob/main/readme.md)
 
 ### Now
-I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product. 
+I'm head of the cluster of java backenders in the direction of real estate in Kontur. Also, I'm Techlead in "Контур.Приёмка" product and "Контур.Реестро". 
 
 ### Education
 Bachelor's degree of information technology in NSTU 2016-2020.
@@ -19,21 +19,21 @@ Russian
 ### Extra activites in IT
 * I have made some of internship tasks for c# [2020 г](https://ulearn.me/Course/backend-internship-2020/Refaktoring_4d4966b2-144f-4244-830c-0c81173e87cb), [2021 г](https://ulearn.me/Course/backend-internship-2021/Umnyy_kholodil_nik_5a4a5b9b-2b56-444a-9275-520bd4eb1c4b), [2022 г](https://ulearn.me/Course/backend-internship-2022/Avtokomplit_7c31b316-d9d5-4dfa-8cc4-5ebe806821d6)
 
-* I have teached the database course students of URFU since 2022
+* I have teached students of the database course of URFU since 2022
 
-* I have intervied developers in Kontur since 2021
+* I have interviewed developers in Kontur since 2021
 
 * I have perfomed in [SnowOne 2021](https://www.youtube.com/watch?list=PLecWId-JT7S5cqUiY7ixWcZgjdRV4upnw&time_continue=1&v=lHX9iRb9184&feature=emb_logo&ab_channel=JUGNsk), [meetup JUG.EKB](https://www.youtube.com/watch?v=yePWmqo4qFU&ab_channel=JUG.EKB), [meetup Backend Update 2022](https://eventskbkontur.timepad.ru/event/2169073/)
 
 ### Expirience
 
-|Position| Stack of technology | Time|
+|Position| Stack of technology | Time| Company |
 |------|------|------|
-|Middle| kotlin\java, spring, vaading, clickhouse, vertx, mongodb, mysql, hazelcast, swing ui, docker | 01.07.2018 - 07.08.2019|
-| Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 13.08.2019-01.04.2020 |
-| Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.04.2020-01.01.2021 |
-| Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.01.2021-03.09.2021 |
-| Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-now |
+|Middle| kotlin\java, spring, vaading, clickhouse, vertx, mongodb, mysql, hazelcast, swing ui, docker | 01.07.2018 - 07.08.2019| Eltex |
+| Junior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 13.08.2019-01.04.2020 | Kontur |
+| Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.04.2020-01.01.2021 | Kontur |
+| Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.01.2021-03.09.2021 | Kontur |
+| Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-now | Kontur |
 
 ### Solved tasks
 Below, you can see different tasks with 2 and more months cost
