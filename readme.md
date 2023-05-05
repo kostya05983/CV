@@ -51,5 +51,5 @@ Below, you can see different tasks with 2 and more months cost
 | Multideal. It's possibility to create some deals in one draft | I designed it with another lead developer. Than he leaved us and I finished the task | No | 2020 year | 3 months |
 | Move the user,representative,organization service from node-js to kotlin | I have rewrited all code and moved all to kotlin with zero down-time | No | 2020 year | 6 moths|
 | Design an Web.Api of extracts for two products | I developed a service than integrated with transport system[transport system](https://reestro-docs.kontur.ru/realty-api/methods/create-docflow.html)| No | 2020 year | 3 Months |
-| Run application server by play button. (There was a problem, that we need to put a file with setting and than run the application) | I wrote a library, which generates such file and put settings in spring environment | Yes | 2019 year | 1 month | 
+| Run application server by play button. (There was a problem, that we need to put a file with setting and than run the application) | I wrote a library, which generates such settings and put this settings into spring environment | Yes | 2019 year | 1 month | 
 |Write service to notification users and integrate with infrastructure of Kontur | I developed the service, it have worked since 2019 year | No | 2019 year | 2 Months|
