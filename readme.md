@@ -25,7 +25,7 @@ Russian
 
 * I have perfomed in [SnowOne 2021](https://www.youtube.com/watch?list=PLecWId-JT7S5cqUiY7ixWcZgjdRV4upnw&time_continue=1&v=lHX9iRb9184&feature=emb_logo&ab_channel=JUGNsk), [meetup JUG.EKB](https://www.youtube.com/watch?v=yePWmqo4qFU&ab_channel=JUG.EKB), [meetup Backend Update 2022](https://eventskbkontur.timepad.ru/event/2169073/)
 
-### Expirience
+### Experience
 
 |Position| Stack of technology | Time| Company |
 |------|------|------|-----|
