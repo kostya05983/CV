@@ -37,7 +37,7 @@ Russian
 | Middle | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.04.2020-01.01.2021 | Kontur |
 | Senior | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 01.01.2021-03.09.2021 | Kontur |
 | Lead | kotlin, spring, rabbitmq, mongodb, nginx, elastic, k8s, grafana, graphite, moira | 03.09.2021-26.09.2024 | Kontur |
-| Senior| go, postgresql, redpanda, pkg, redis, k8s | 26.09.2024 - настоящее время | Авито |
+| Senior| go, postgresql, redpanda, pkg, redis, k8s | 26.09.2024 - настоящее время | Avito |
 
 ### Solved tasks
 I chose the most interesting tasks and described them below.
